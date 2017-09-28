@@ -1,7 +1,7 @@
 #ignorer le target/
 target/
-#ignorer le .setting/
-.setting/
+#ignorer le .settings/
+.settings/
 #ignorer le .project
 .project
 #ignorer le .classpath
