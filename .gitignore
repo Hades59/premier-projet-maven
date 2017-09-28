@@ -1,2 +1,8 @@
 #ignorer le target/
 target/
+#ignorer le .setting/
+.setting/
+#ignorer le .project
+.project
+#ignorer le .classpath
+.classpath
